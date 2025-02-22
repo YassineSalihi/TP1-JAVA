@@ -1,4 +1,3 @@
 # TP1-JAVA
-# Go to the "Master Branch" not
-# the "Main Branch"
+# Go to the https://github.com/YassineSalihi/java
 #                 -YASSINE
